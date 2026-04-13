@@ -20,4 +20,4 @@ const setupAndStartServer = async () => {
     });
 };
 
-setupAndStartServer();
+setupAndStartServer();  
